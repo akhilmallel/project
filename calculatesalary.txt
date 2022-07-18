@@ -1,0 +1,11 @@
+ class CalculateSalary{
+ 
+   public static void main(string args[]){
+   
+   int basic=2000;
+   int hra=500;
+   int ta=200;
+   
+   system.out.println("Total Salary"+(basic+hra+ta));
+   }
+  }
