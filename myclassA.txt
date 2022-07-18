@@ -1,0 +1,7 @@
+class A{
+  punlic Static Voidmain(string[]arg){
+       inta=10;
+	   intb=20;
+	   system.out.println(a+b);
+	}
+ }
